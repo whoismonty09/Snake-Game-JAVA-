@@ -36,3 +36,23 @@ This project is a console-based Snake Game built using Java. The player controls
 ---
 
 
+---
+
+## ▶ How to Run
+1. Copy the Java code into any online Java compiler.
+2. Run the program.
+3. Control the snake using W, A, S, and D keys.
+
+---
+
+## 🔮 Future Enhancements
+- Add levels and increasing speed
+- Add obstacles
+- High score saving
+- GUI version using Java Swing or JavaFX
+- Sound effects
+
+---
+
+## 👨‍💻 Author
+Developed by *[Your Name]*

@@ -52,4 +52,4 @@ This project is a console-based Snake Game built using Java. The player controls
 ---
 
 ## 👨‍💻 Author
-Developed by *[Your Name]*
+Developed by **[Your Name]**

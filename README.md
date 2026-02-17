@@ -35,6 +35,4 @@ This project is a console-based Snake Game built using Java. The player controls
 
 ---
 
-## ▶ How to Run
-1. Copy the Java code into any online Java compiler.
-2. Run the
+
